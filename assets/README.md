@@ -1,9 +1,7 @@
 # assets/
 
-Download pretrained detector here as `yolov5s.onnx` (input 1x3x640x640, output 1x25200x85).
-https://my.sharif.edu/s/kzNyRYGxKFkrmWa
-
-How to produce it (instructor, once):
+Put pretrained detector here as `yolov5s.onnx`:
+How to produce it :
 
 ```
 git clone https://github.com/ultralytics/yolov5

@@ -1,7 +1,7 @@
 from __future__ import annotations
 
 import sys
-
+import onnxruntime as ort
 from gui import AppWindow, create_application
 
 
